@@ -107,3 +107,5 @@ Kant vs konsekvensetik i forhold til datafremstilling og manipulation.
 
 
 
+
+
